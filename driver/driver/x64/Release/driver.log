@@ -1,0 +1,9 @@
+﻿  Building 'driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\driver.inf
+  Stamping [Version] section with DriverVer=09/18/2022,20.54.57.791
+  core.cpp
+  main.cpp
+  util.cpp
+  Generating Code...
+  driver.vcxproj -> C:\Users\Vavy\source\repos\driver\x64\Release\driver.sys
+  Driver is 'Universal'.
